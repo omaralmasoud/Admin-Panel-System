@@ -1,7 +1,7 @@
 # adminpanelsystem
 Admin Panel System
 
-before we start notice that this project not fully secure it's for education purpose if you going to use it as a main project for you or your company please don't. 
+Before we start notice that this project not fully secure it's for education purpose if you going to use it as a main project for you or your company please don't. 
 
 
 This project just for show you how to write a php code in simplest way to make an admin panel for make a users , categories , servies and place an orders.
