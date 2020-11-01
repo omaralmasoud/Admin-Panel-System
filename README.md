@@ -1,5 +1,5 @@
-# adminpanelsystem
-Admin Panel System
+# Admin Panel System
+
 
 Before we start notice that this project not fully secure it's for education purpose if you going to use it as a main project for you or your company please don't. 
 
